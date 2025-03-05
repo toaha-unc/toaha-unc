@@ -42,6 +42,9 @@ I am Toaha Siddique, a software engineer. In my free time, I like programming an
 <a href="https://cplusplus.com/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus">
 </a> 
+<a href="https://go.dev/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/-golang-blue?logo=go">
+</a> 
 </p>
 
 
