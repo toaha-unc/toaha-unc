@@ -73,6 +73,9 @@ I am Toaha Siddique, a software engineer. In my free time, I like programming an
   <a href="https://azure.microsoft.com/" target="_blank">
     <img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoft-azure&logoColor=white">
   </a> 
+  <a href="https://aws.amazon.com/" target="_blank"> 
+   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white">
+  </a>  
 </p>
 
 
