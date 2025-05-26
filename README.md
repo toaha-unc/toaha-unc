@@ -12,11 +12,6 @@
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 I am Toaha Siddique, a software engineer. In my free time, I like programming and learning new technologies. Let's create innovative solutions together!
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toaha-unc&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</p>
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
