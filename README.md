@@ -97,6 +97,14 @@ I am Toaha Siddique, a software engineer. In my free time, I like programming an
  </a> 
 </p>
 
+### 💾 Databases
+
+<p align="left"> 
+  
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </a>
+</p>
 
 ### 🎛️ Operating Systems
 
@@ -109,5 +117,7 @@ I am Toaha Siddique, a software engineer. In my free time, I like programming an
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/>
   </a>
 </p>
+
+
 
 <br> 
