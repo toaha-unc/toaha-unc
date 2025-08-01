@@ -99,6 +99,9 @@ I am Toaha Siddique, a Software Engineer. In my free time, I like programming an
   <a href="https://www.mysql.com/" target="_blank"> 
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  </a>
 </p>
 
 ### 🎛️ Operating Systems
