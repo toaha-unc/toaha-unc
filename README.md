@@ -63,7 +63,7 @@ I am Toaha Siddique, a Software Engineer. In my free time, I like programming an
 
 <p align="left">
   <a href="https://spring.io/" target="_blank"> 
-   <img alt="" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
+   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   </a>   
 </p>
 
