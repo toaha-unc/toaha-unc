@@ -48,6 +48,11 @@ I am Toaha Siddique, a Software Engineer. In my free time, I like programming an
 ### 📋 Frontend Development
 
 <p align="left">
+
+  <a href="https://angular.dev/" target="_blank">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  </a> 
+  
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
   </a>   
