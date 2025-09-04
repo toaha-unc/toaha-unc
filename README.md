@@ -10,7 +10,7 @@
 
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
-I am Toaha Siddique, a Software Engineer. My tech stack is Java, Spring, and Angular. In my free time, I like programming and learning new technologies. Let's create innovative solutions together!
+I am Toaha Siddique, a Software Engineer. My tech stack is Java, Spring, Angular, Python and Django. In my free time, I like programming and learning new technologies. Let's create innovative solutions together!
 
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -70,6 +70,10 @@ I am Toaha Siddique, a Software Engineer. My tech stack is Java, Spring, and Ang
   <a href="https://spring.io/" target="_blank"> 
    <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   </a>   
+
+  <a href="https://www.djangoproject.com/" target="_blank"> 
+   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  </a> 
 </p>
 
 ### ☁️ Cloud
